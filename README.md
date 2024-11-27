@@ -73,14 +73,6 @@
 
 As seguintes tecnologias foram usadas na construção deste projeto:
 
-<ul>
-  <li><a href="https://www.w3schools.com/html/default.asp" target="_blank">HTML5</a></li>
-  <li><a href="https://www.w3schools.com/css/default.asp" target="_blank">CSS3</a></li>
-  <li><a href="https://www.w3schools.com/js/default.asp" target="_blank">Javascript</a></li>
-  <li><a href="https://swiperjs.com/" target="_blank">SwiperJS</a></li>
-  <li><a href="https://web.dev/progressive-web-apps/" target="_blank">PWA</a></li>
-</ul>
-
 [![Linkedin Badge](https://img.shields.io/badge/-Felipe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fademendonca/)](https://www.linkedin.com/in/fademendonca/)
 [![Gmail Badge](https://img.shields.io/badge/-felipe.deam98@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipe.deam98@gmail.com)](mailto:felipe.deam98@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/felipe.deam/)](https://www.instagram.com/felipe.deam/)
