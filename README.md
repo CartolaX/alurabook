@@ -81,16 +81,6 @@ As seguintes tecnologias foram usadas na construção deste projeto:
   <li><a href="https://web.dev/progressive-web-apps/" target="_blank">PWA</a></li>
 </ul>
 
-<h2 id="autor"> 👨‍💻 Autor </h2>
-
-<a href="https://github.com/Epiled">
-
-![Felindo](https://user-images.githubusercontent.com/55258483/178338085-2cea8bf2-6d0c-409a-9d0e-23359b7d303e.png)
- <br />
- <sub><b>Felipe De Andrade</b></sub></a>
-
-Feito com ❤️ por Felipe De Andrade 👋🏽 Entre em contato!
-
 [![Linkedin Badge](https://img.shields.io/badge/-Felipe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fademendonca/)](https://www.linkedin.com/in/fademendonca/)
 [![Gmail Badge](https://img.shields.io/badge/-felipe.deam98@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipe.deam98@gmail.com)](mailto:felipe.deam98@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/felipe.deam/)](https://www.instagram.com/felipe.deam/)
